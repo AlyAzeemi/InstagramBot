@@ -1,5 +1,6 @@
 # InstagramBot
 Based off of Colorscreams grayvee bot. This will pickup posts from the given tag list in info.txt, visit them and like or comment alternatively.
+Note: This uses implicit wait statements so a slower network than the one this was designed for will cause the script to timeout and crash.
 
 # Instructions
 1. Run CreateFiles.py
